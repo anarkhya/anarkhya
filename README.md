@@ -1,6 +1,16 @@
-### Hi there 👋
-
+<h1 align="center">🤳</h1>
 <!--
+
+<h2 align="center">Developing 💾</h2>
+<h2 align="center">Shooting 📸</h2> 
+<h2 align="center">Wikipedia 📜</h2> 
+
+
+
+
+
+
+
 **anarkhya/anarkhya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
